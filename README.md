@@ -24,7 +24,8 @@ Tasks:<br>
 3. How can Cyclistic use digital media to influence casual riders to become members?
 <br><br>
 
-[Process: ](Cyclistic_CaseStudy.ipynb)
+Process:<br>
+The Case Study was performed in Python, in Google Colab. View entire [code](Cyclistic_CaseStudy.ipynb).
 <br><br>
 
 Key Findings: 
