@@ -25,7 +25,7 @@ Tasks:<br>
 <br><br>
 
 Process:<br>
-The Case Study was performed in Python, in Google Colab. View entire [code](Cyclistic_CaseStudy.ipynb).
+The Case Study was performed in Python, in Google Colab. View [process](Cyclistic_CaseStudy.ipynb).
 <br><br>
 
 Key Findings: 
