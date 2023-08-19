@@ -1,10 +1,12 @@
 # Cyclistic Bike-Share Case Study
 Google Data Analytics Professional Certificate Capstone Project. Performed in Google Colab. <br><br>
 <img width="124" alt="image" src="https://github.com/sayalisa2li7/cyclistic-data-analysis/assets/91866677/00ce5e5e-14f7-4d64-b3ba-f39a022f0f6f"> <br><br>
+
 Scenario: <br>
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 <br><br>
+
 About the company: <br>
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
 returned to any other station in the system anytime.
@@ -14,11 +16,13 @@ Design marketing strategies aimed at converting casual riders into annual member
 do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
 casual riders would buy a membership, and how digital media could affect their marketing tactics.
 <br><br>
+
 Tasks:<br>
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 <br><br>
+
 Key Findings: <br>
 * The total number of rides taken from June of 2022 to May of 2023 was 4226423. Out of this 2541806 number of rides were from riders with annual membership, making up to 60% of the totall rides taken.
 * Classic bikes are the most popular rideable type. They are also the most popular rideable type among annual membership riders, followed by electric bikes. Majority of the casual riders prefer to ride electric bikes, followed by docked biked. However, none of the annual membership riders prefer using docked bikes.
