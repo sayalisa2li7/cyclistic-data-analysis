@@ -24,6 +24,9 @@ Tasks:<br>
 3. How can Cyclistic use digital media to influence casual riders to become members?
 <br><br>
 
+[Process: ](Cyclistic_CaseStudy.ipynb)
+<br><br>
+
 Key Findings: 
 * The total number of rides taken from June of 2022 to May of 2023 was 4226423. Out of this 2541806 number of rides were from riders with annual membership, making up to 60% of the totall rides taken.
 * Classic bikes are the most popular rideable type. They are also the most popular rideable type among annual membership riders, followed by electric bikes. Majority of the casual riders prefer to ride electric bikes, followed by docked biked. However, none of the annual membership riders prefer using docked bikes.
