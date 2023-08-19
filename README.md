@@ -24,7 +24,7 @@ Tasks:<br>
 3. How can Cyclistic use digital media to influence casual riders to become members?
 <br><br>
 
-Key Findings: <br>
+Key Findings: 
 * The total number of rides taken from June of 2022 to May of 2023 was 4226423. Out of this 2541806 number of rides were from riders with annual membership, making up to 60% of the totall rides taken.
 * Classic bikes are the most popular rideable type. They are also the most popular rideable type among annual membership riders, followed by electric bikes. Majority of the casual riders prefer to ride electric bikes, followed by docked biked. However, none of the annual membership riders prefer using docked bikes.
 * For casual riders, the most popular days are Saturday and Sunday, respectively. Whereas, for annual membership riders, the most popular days are Wednesday and Tuesday, respectively. Overall, Saturday has the most number of total riders.
@@ -35,7 +35,8 @@ August, July and June have the most numbers of riders. There is a clear rise in 
 The numbers of casual riders grows gradually throughout the day, peaking at 5 pm. Whereas, there are significant peaks in the number of annual membership riders during the morning hours and later at 5 pm.
 * The most popular start station for casual riders is 'Kingsbury St & Kinzie St'. For annual membership riders, it is 'Streeter Dr & Grand Ave'. Streeter Dr & Grand Ave is also the most popular start station in general.
 <br>
-Recommendations: <br><br>
+Recommendations: <br>
+
 * Increase marketing campaign targeted at casual riders.The ads could offer special discounts for the annual membership to encourage casual riders to become members.
 * Most casual riders prefer electric bikes. Offering to subscribe to electric bikes at a discounted price can encourage more casual riders to buy a subscription.
 * Weekends see the most number of casual riders. Designing a new type of subcription plan only for weekend riders can also increase the amount of members. Similarly, a different type of membership plan for seasonal riders will also help increase the member count.
