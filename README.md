@@ -36,7 +36,6 @@ The numbers of casual riders grows gradually throughout the day, peaking at 5 pm
 * The most popular start station for casual riders is 'Kingsbury St & Kinzie St'. For annual membership riders, it is 'Streeter Dr & Grand Ave'. Streeter Dr & Grand Ave is also the most popular start station in general.
 
 <br><br>
-
 Recommendations: <br>
 
 * Increase marketing campaign targeted at casual riders.The ads could offer special discounts for the annual membership to encourage casual riders to become members.
