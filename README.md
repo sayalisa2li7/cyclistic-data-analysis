@@ -1,5 +1,5 @@
 # Cyclistic Bike-Share Case Study
-Google Data Analytics Professional Certificate Capstone Project. Performed in Google Colab.
+Google Data Analytics Professional Certificate Capstone Project. Performed in Google Colab. <br>
 <img width="124" alt="image" src="https://github.com/sayalisa2li7/cyclistic-data-analysis/assets/91866677/00ce5e5e-14f7-4d64-b3ba-f39a022f0f6f">
 About the company
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
