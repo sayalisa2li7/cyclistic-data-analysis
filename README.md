@@ -36,7 +36,7 @@ The numbers of casual riders grows gradually throughout the day, peaking at 5 pm
 * The most popular start station for casual riders is 'Kingsbury St & Kinzie St'. For annual membership riders, it is 'Streeter Dr & Grand Ave'. Streeter Dr & Grand Ave is also the most popular start station in general.
 <br>
 Recommendations: <br>
-
+<br>
 * Increase marketing campaign targeted at casual riders.The ads could offer special discounts for the annual membership to encourage casual riders to become members.
 * Most casual riders prefer electric bikes. Offering to subscribe to electric bikes at a discounted price can encourage more casual riders to buy a subscription.
 * Weekends see the most number of casual riders. Designing a new type of subcription plan only for weekend riders can also increase the amount of members. Similarly, a different type of membership plan for seasonal riders will also help increase the member count.
