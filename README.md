@@ -13,3 +13,25 @@ One approach that helped make these things possible was the flexibility of its p
 Design marketing strategies aimed at converting casual riders into annual members. In order to
 do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why
 casual riders would buy a membership, and how digital media could affect their marketing tactics.
+<br><br>
+Tasks:<br>
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+<br><br>
+Key Findings:
+<br>
+* The total number of rides taken from June of 2022 to May of 2023 was 4226423. Out of this 2541806 number of rides were from riders with annual membership, making up to 60% of the totall rides taken.
+
+* Classic bikes are the most popular rideable type. They are also the most popular rideable type among annual membership riders, followed by electric bikes. Majority of the casual riders prefer to ride electric bikes, followed by docked biked. However, none of the annual membership riders prefer using docked bikes.
+
+* For casual riders, the most popular days are Saturday and Sunday, respectively. Whereas, for annual membership riders, the most popular days are Wednesday and Tuesday, respectively. Overall, Saturday has the most number of total riders.
+Casual riders mostly rent bikes on weekends while members use them consistently throughout the week.
+
+* For casual riders, the most popular month is July. And, for annual membership riders, the most popular month is August. July is also the most popular month overall.
+August, July and June have the most numbers of riders. There is a clear rise in the number of rides taken in the months of summer.
+
+* The number of bike rentals by both casual and annual membership riders peak at 5 pm.
+The numbers of casual riders grows gradually throughout the day, peaking at 5 pm. Whereas, there are significant peaks in the number of annual membership riders during the morning hours and later at 5 pm.
+
+* The most popular start station for casual riders is 'Kingsbury St & Kinzie St'. For annual membership riders, it is 'Streeter Dr & Grand Ave'. Streeter Dr & Grand Ave is also the most popular start station in general.
