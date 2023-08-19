@@ -34,6 +34,7 @@ August, July and June have the most numbers of riders. There is a clear rise in 
 * The number of bike rentals by both casual and annual membership riders peak at 5 pm.
 The numbers of casual riders grows gradually throughout the day, peaking at 5 pm. Whereas, there are significant peaks in the number of annual membership riders during the morning hours and later at 5 pm.
 * The most popular start station for casual riders is 'Kingsbury St & Kinzie St'. For annual membership riders, it is 'Streeter Dr & Grand Ave'. Streeter Dr & Grand Ave is also the most popular start station in general.
+
 <br><br>
 
 Recommendations: <br>
