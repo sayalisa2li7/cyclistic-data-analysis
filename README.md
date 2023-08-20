@@ -24,6 +24,8 @@ Tasks:<br>
 3. How can Cyclistic use digital media to influence casual riders to become members?
 <br><br>
 
+Data: [Cyclistic Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 Process:<br>
 The Case Study was performed in Python, in Google Colab. See [file](Cyclistic_CaseStudy.ipynb).
 <br><br>
