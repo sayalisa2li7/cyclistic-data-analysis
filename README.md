@@ -45,6 +45,6 @@ Recommendations:
 * Most casual riders prefer electric bikes. Offering to subscribe to electric bikes at a discounted price can encourage more casual riders to buy a subscription.
 * Weekends see the most number of casual riders. Designing a new type of subcription plan only for weekend riders can also increase the amount of members. Similarly, a different type of membership plan for seasonal riders will also help increase the member count.
 * Out of the top 10 start stations, only 4 have above 50% of the riders with an annual membership. The other 6 stations should be targeted during marketing campaigns to increase the percentage of annual membership riders. Adverstising during the peak hours may also help.
-<br><br>
+<br><br> 
 
 Presentation: [Cyclistic' Road To Speedy Success](https://github.com/sayalisa2li7/cyclistic-data-analysis/blob/main/Cyclistic%E2%80%99s%20Road%20To%20Speedy%20Success.pdf)
